@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import tel from './assets/iphone.png';
-import img from './assets/img1.png';
+import tel from './assets/iphonegit init.png';
+import img from './assets/Img1.png';
 import imgg from './assets/img.png';
 import phone from './assets/iPhone(1).png';
 import './App.css';
